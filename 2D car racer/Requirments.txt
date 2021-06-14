@@ -1,0 +1,9 @@
+
+Images:-
+car(player)
+cars(obstacles)
+road(backgorund)
+
+Audio-
+car sounds
+backgorund music
